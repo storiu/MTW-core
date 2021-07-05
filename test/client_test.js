@@ -8,6 +8,7 @@ import RpcError from '../src/errors/rpc-error';
 import _ from 'lodash';
 import config from './config';
 import fs from 'fs';
+
 import methods from '../src/methods';
 import parse from './utils/help-parser-util';
 import path from 'path';
